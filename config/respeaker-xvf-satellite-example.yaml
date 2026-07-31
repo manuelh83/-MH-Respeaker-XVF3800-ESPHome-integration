@@ -31,8 +31,8 @@ substitutions:
   error_cloud_expired_sound_file: https://github.com/esphome/home-assistant-voice-pe/raw/dev/sounds/error_cloud_expired.mp3
 
 esphome:
-  name: respeaker-xvf3800-assistant
-  friendly_name: reSpeaker XVF3800 Assistant
+  name: respeaker-wohnzimmer
+  friendly_name: reSpeaker Wohnzimmer
   project:
     name: formatbce.Respeaker XVF3800 Satellite
     version: 2026.6.0
